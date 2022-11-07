@@ -2,7 +2,7 @@
 > The latest version of **Sublime Text 3 (Build 3211)** 100% working license key. 
 
 ## Sublime Text Official Website:
-Find and download the latest version of **_[Sublime Text 3](sublimetext.com)_** from their website: [sublimetext.com](sublimetext.com)
+Find and download the latest version of **Sublime Text 3** from their website: https://www.sublimetext.com/
 
 ### License Serial
 **_Copy_** and **_paste_** the below license serial from beginning to the end into your Sublime Text 3 license key area.
